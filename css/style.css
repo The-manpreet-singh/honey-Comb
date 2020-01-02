@@ -36,7 +36,7 @@ body a:hover{
 }
 /*-- banner --*/
 .w3banner {
-	background:url(./images11/rad.png)no-repeat center 0px;
+	background:url(./images11/rad.PNG)no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
@@ -297,7 +297,7 @@ body a:hover{
 }
 .cc{
 
-    background-image: url('./images11/curve_bg.png') !important;
+    background: url('./images11/curve_bg.png') !important;
 
   background-repeat: no-repeat;
   background-size: contain;
